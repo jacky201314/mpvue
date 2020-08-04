@@ -1,2 +1,2 @@
-# mpvue
-初学小程序，创建自用demo
+# vue-antd
+vue基于antd框架的基础架构
